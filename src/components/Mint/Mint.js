@@ -17,8 +17,8 @@ export default function Mint() {
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi inventore sunt aliquam, at alias modi excepturi aperiam sequi doloribus fuga reprehenderit temporibus iure maiores quidem harum molestias officia dolorum cumque cum. Officiis laboriosam necessitatibus neque aspernatur debitis eius accusantium, praesentium ab exercitationem? Impedit quos praesentium reprehenderit. Magnam provident dolor repudiandae?
             </p>
             <div className='inputContainer'>
-              <input type="number" />
-              <button className="btn btn-primary">MINT</button>
+              <input type="number" defaultValue={1} />
+              <button className="btn btn-primary m-3">MINT</button>
             </div>
           </div>
         </Col>

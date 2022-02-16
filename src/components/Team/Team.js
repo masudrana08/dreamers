@@ -75,7 +75,7 @@ export default function Team() {
           <b className='memberName'>Mathew</b>
           <b className='memberTitle'>(Community Manager)</b>
           <p>
-          exercitationem quae numquam minus corporis aperiam officia quas enim, ratione nostrum.
+          Exercitationem  corporis aperiam officia quas enim, ratione nostrum.
           </p>
         </div>
         </Col>

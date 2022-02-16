@@ -7,14 +7,23 @@
  padding: 100px 10px;
 }
 .memberName{
-  font-size: 29px;
+  font-size: 20px;
   display: block;
 }
 .memberTitle{
   display: block;
-  margin: 5px 0
+  margin: 5px 0;
+  font-size: 12px;
+  letter-spacing: 1px;
 }
 
 .teamContainer img{
-  width: 200px;
+  width: 150px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+.teamContainer p{
+  font-size: 14px;
+  margin-top: 10px;
+  font-weight: 200;
 }
