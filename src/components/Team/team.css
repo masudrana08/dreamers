@@ -1,0 +1,20 @@
+.teamContainer{
+ text-align: center;
+ background-image: url(../../images/meet-bg.png);
+ background-size: cover;
+ background-repeat: no-repeat;
+ color: white;
+ padding: 100px 10px;
+}
+.memberName{
+  font-size: 29px;
+  display: block;
+}
+.memberTitle{
+  display: block;
+  margin: 5px 0
+}
+
+.teamContainer img{
+  width: 200px;
+}

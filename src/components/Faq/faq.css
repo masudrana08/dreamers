@@ -1,0 +1,10 @@
+.faqContainer{
+  background-color: #0F0F0F;
+  color: white;
+  padding: 50px 10px;
+}
+
+.accordion-item, .accordion-button{
+  background-color: #0F0F0F;
+  color: white
+}

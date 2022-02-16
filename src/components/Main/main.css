@@ -1,0 +1,28 @@
+.mainContainer{
+  background-image: url(../../images/main-bg.png);
+  height: 800px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainPicture{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nftMain{
+  width: 70%;
+}
+
+.dreamOn{
+  width: 70%;
+  position: relative;
+  top: -130px;
+}
+
