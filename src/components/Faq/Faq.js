@@ -4,7 +4,7 @@ import './faq.css'
 
 export default function Faq() {
   return (
-    <div className="faqContainer">
+    <div className="faqContainer" id='faq'>
       <Row >
         <Col  className='d-flex justify-content-center'>
           <div className='mb-5'>

@@ -4,7 +4,7 @@ import NftBig from '../../images/nft-big.png'
 import './mint.css'
 export default function Mint() {
   return (
-    <div className='mintContainer'>
+    <div className='mintContainer' id='mint'>
        <Row className='d-flex justify-content-center'>
         <Col xs={0} md='4' className='hide'>
           <img  className='nftBig' src={NftBig} alt="" />

@@ -27,7 +27,7 @@ export default function Team() {
     }
   };
   return (
-    <div className='teamContainer'>
+    <div className='teamContainer' id='team'>
       <Row>
         <Col className='mb-5'>
           <h3>MEET THE TEAMS</h3>

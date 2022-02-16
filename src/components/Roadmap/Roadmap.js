@@ -4,7 +4,7 @@ import { Col, Row } from 'react-bootstrap'
 import planeImg from '../../images/plane.png'
 export default function Roadmap() {
   return (
-    <div className='roadmapContainer'>
+    <div className='roadmapContainer' id='roadmap'>
       <Row className='top'>
         <Col className='roadmapHeader'>
             <h4>ROADMAP</h4>
